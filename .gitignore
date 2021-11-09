@@ -9,7 +9,6 @@ old/node_modules
 old/package-lock.json
 old/yarn.lock
 
-new/backend
 new/scaffold/node_modules
 new/scaffold/lock-package.json
 new/scaffold/yarn.lock
