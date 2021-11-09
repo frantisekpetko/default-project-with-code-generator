@@ -1,0 +1,20 @@
+/.idea
+/.vscode
+
+# client/npm-debug.log
+# src
+
+old/vendor
+old/node_modules
+old/package-lock.json
+old/yarn.lock
+
+new/backend
+new/scaffold/node_modules
+new/scaffold/lock-package.json
+new/scaffold/yarn.lock
+
+new/backend/package-lock.json
+new/backend/yarn.lock
+new/backend/node_modules
+new/backend/dist
